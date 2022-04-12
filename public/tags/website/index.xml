@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Website - Tag - Karl Johnson</title>
+        <link>http://karlsjohnson.com/tags/website/</link>
+        <description>Website - Tag - Karl Johnson</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 29 Mar 2022 07:59:48 &#43;0800</lastBuildDate><atom:link href="http://karlsjohnson.com/tags/website/" rel="self" type="application/rss+xml" /><item>
+    <title>Why Hugo</title>
+    <link>http://karlsjohnson.com/posts/20220329-why_hugo/</link>
+    <pubDate>Tue, 29 Mar 2022 07:59:48 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://karlsjohnson.com/posts/20220329-why_hugo/</guid>
+    <description><![CDATA[Starting a Blog After not blogging for many years, I wanted to write again. The purpose is to help collect my thoughts and record the technical skills I am learning. Writing about it makes it easier to remember. A blog also allows me to keep learning, whether it is technical or photography skills. I wanted something easy to use at first. I could always switch to something else later. Now, I have been writing with Markdown for years.]]></description>
+</item><item>
+    <title>First Post</title>
+    <link>http://karlsjohnson.com/posts/20220321-first_post/</link>
+    <pubDate>Mon, 21 Mar 2022 09:59:48 -0700</pubDate>
+    <author>Author</author>
+    <guid>http://karlsjohnson.com/posts/20220321-first_post/</guid>
+    <description><![CDATA[Welcome I am restarting my blog with two goals. The first one is to give me a digital presence in which to communicate to the digital world. The second is to help keep track of my goals somewhere. I have been writing to markdown files privately, but I wanted to start doing this publicly since most of the information might be helpful to others and not need to be kept secure.]]></description>
+</item></channel>
+</rss>
