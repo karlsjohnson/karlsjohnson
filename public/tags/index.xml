@@ -3,33 +3,40 @@
         <title>Tags - Tag - Karl Johnson</title>
         <link>http://karlsjohnson.com/tags/</link>
         <description>Tags - Tag - Karl Johnson</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 30 Mar 2022 06:00:00 &#43;0800</lastBuildDate><atom:link href="http://karlsjohnson.com/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>Arizona</title>
-    <link>http://karlsjohnson.com/tags/arizona/</link>
-    <pubDate>Wed, 30 Mar 2022 06:00:00 &#43;0800</pubDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 14 Apr 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://karlsjohnson.com/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>California</title>
+    <link>http://karlsjohnson.com/tags/california/</link>
+    <pubDate>Thu, 14 Apr 2022 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>http://karlsjohnson.com/tags/arizona/</guid>
+    <guid>http://karlsjohnson.com/tags/california/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Desert</title>
     <link>http://karlsjohnson.com/tags/desert/</link>
-    <pubDate>Wed, 30 Mar 2022 06:00:00 &#43;0800</pubDate>
+    <pubDate>Thu, 14 Apr 2022 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>http://karlsjohnson.com/tags/desert/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Hiking</title>
     <link>http://karlsjohnson.com/tags/hiking/</link>
-    <pubDate>Wed, 30 Mar 2022 06:00:00 &#43;0800</pubDate>
+    <pubDate>Thu, 14 Apr 2022 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>http://karlsjohnson.com/tags/hiking/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Travel</title>
     <link>http://karlsjohnson.com/tags/travel/</link>
-    <pubDate>Wed, 30 Mar 2022 06:00:00 &#43;0800</pubDate>
+    <pubDate>Thu, 14 Apr 2022 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>http://karlsjohnson.com/tags/travel/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Arizona</title>
+    <link>http://karlsjohnson.com/tags/arizona/</link>
+    <pubDate>Wed, 30 Mar 2022 06:00:00 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://karlsjohnson.com/tags/arizona/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Hugo</title>
@@ -58,13 +65,6 @@
     <pubDate>Mon, 28 Mar 2022 09:59:48 &#43;0800</pubDate>
     <author>Author</author>
     <guid>http://karlsjohnson.com/tags/utah/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>California</title>
-    <link>http://karlsjohnson.com/tags/california/</link>
-    <pubDate>Mon, 28 Mar 2022 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>http://karlsjohnson.com/tags/california/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>3D Printer</title>
