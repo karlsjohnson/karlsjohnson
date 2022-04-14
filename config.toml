@@ -4,7 +4,8 @@ defaultContentLanguage = "en"
 # language code
 languageCode = "en"
 title = "Karl Johnson"
-
+# public git repo url only then enableGitInfo is true
+gitRepo = "https://github.com/karlsjohnson/karlsjohnson"
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 
