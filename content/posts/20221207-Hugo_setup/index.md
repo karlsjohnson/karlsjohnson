@@ -29,3 +29,7 @@ To install hugo on the mac, use the following commands
 ```bash
 brew install hugo
 ```
+
+## Creating Site
+
+The first step
