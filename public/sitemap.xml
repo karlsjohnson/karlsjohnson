@@ -2,15 +2,18 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>http://karlsjohnson.com/categories/</loc><lastmod>2022-12-07T00:00:00&#43;06:00</lastmod></url><url>
+            <loc>http://karlsjohnson.com/tags/hugo-cli/</loc><lastmod>2022-12-07T00:00:00&#43;06:00</lastmod></url><url>
+            <loc>http://karlsjohnson.com/</loc><lastmod>2022-12-07T00:00:00&#43;06:00</lastmod></url><url>
+            <loc>http://karlsjohnson.com/posts/</loc><lastmod>2022-12-07T00:00:00&#43;06:00</lastmod></url><url>
+            <loc>http://karlsjohnson.com/posts/20221207-hugo_setup/</loc><lastmod>2022-12-07T00:00:00&#43;06:00</lastmod></url><url>
+            <loc>http://karlsjohnson.com/tags/</loc><lastmod>2022-12-07T00:00:00&#43;06:00</lastmod></url><url>
+            <loc>http://karlsjohnson.com/categories/website/</loc><lastmod>2022-12-07T00:00:00&#43;06:00</lastmod></url><url>
             <loc>http://karlsjohnson.com/tags/california/</loc><lastmod>2022-04-14T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://karlsjohnson.com/categories/</loc><lastmod>2022-04-14T00:00:00&#43;00:00</lastmod></url><url>
             <loc>http://karlsjohnson.com/tags/desert/</loc><lastmod>2022-04-14T00:00:00&#43;00:00</lastmod></url><url>
             <loc>http://karlsjohnson.com/tags/hiking/</loc><lastmod>2022-04-14T00:00:00&#43;00:00</lastmod></url><url>
             <loc>http://karlsjohnson.com/posts/20220414-joshua_bush/</loc><lastmod>2022-04-14T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://karlsjohnson.com/</loc><lastmod>2022-04-14T00:00:00&#43;00:00</lastmod></url><url>
             <loc>http://karlsjohnson.com/categories/photograhy/</loc><lastmod>2022-04-14T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://karlsjohnson.com/posts/</loc><lastmod>2022-04-14T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://karlsjohnson.com/tags/</loc><lastmod>2022-04-14T00:00:00&#43;00:00</lastmod></url><url>
             <loc>http://karlsjohnson.com/tags/travel/</loc><lastmod>2022-04-14T00:00:00&#43;00:00</lastmod></url><url>
             <loc>http://karlsjohnson.com/tags/arizona/</loc><lastmod>2022-03-30T06:00:00&#43;08:00</lastmod></url><url>
             <loc>http://karlsjohnson.com/posts/20220330-sedona_mountains/</loc><lastmod>2022-03-30T06:00:00&#43;08:00</lastmod></url><url>
@@ -25,5 +28,4 @@
             <loc>http://karlsjohnson.com/categories/maker/</loc><lastmod>2022-03-25T16:45:40&#43;08:00</lastmod></url><url>
             <loc>http://karlsjohnson.com/posts/20220325-3d_printer/</loc><lastmod>2022-03-25T16:45:40&#43;08:00</lastmod></url><url>
             <loc>http://karlsjohnson.com/posts/20220321-first_post/</loc><lastmod>2022-03-22T16:45:40&#43;08:00</lastmod></url><url>
-            <loc>http://karlsjohnson.com/categories/website/</loc><lastmod>2022-03-22T16:45:40&#43;08:00</lastmod></url><url>
             <loc>http://karlsjohnson.com/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod></url></urlset>
