@@ -4,7 +4,7 @@ author: "Karl"
 date: 2022-12-07T00:00:00+06:00
 lastmod: 2022-12-07T00:00:00+06:00
 draft: false
-resources:
+resources:****
 - name: "featured-image"
   src: "featured-image.jpg"
 tags: ["Hugo, CLI"]
