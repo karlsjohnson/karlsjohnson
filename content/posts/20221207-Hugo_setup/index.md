@@ -2,9 +2,9 @@
 title: "Setting up Hugo"
 author: "Karl"
 date: 2022-12-07T00:00:00+06:00
-lastmod: 2022-12-07T00:00:00+06:00
+lastmod: 2023-01-17T00:00:00+06:00
 draft: false
-resources:****
+resources:
 - name: "featured-image"
   src: "featured-image.jpg"
 tags: ["Hugo, CLI"]
@@ -34,7 +34,7 @@ brew install hugo
 
 ## Creating a new site
 
-Following the [quick start](https://gohugo.io/getting-started/quick-start/) would be good to foloow to understand the basic usage of hugo. The main commands are the following:
+Following the [quick start](https://gohugo.io/getting-started/quick-start/) would be good to follow to understand the basic usage of hugo. The main commands are the following:
 
 To create a new project or website:
 
@@ -49,7 +49,7 @@ cd name_of_project
 git init
 ```
 
-Clone the Loveit theme into the themes directory, adding it to your project as a Git submodule. Then add the theme to your config file.
+You can choose any [theme](https://themes.gohugo.io/) or create your own. I picked [Loveit](https://themes.gohugo.io/themes/loveit/) since it had most of the features I wanted. Clone the Loveit theme into the themes directory, adding it to your project as a Git submodule. Then add the theme to your config file.
 
 ```bash
 git submodule add https://github.com/dillonzq/LoveIt.git themes/LoveIt
@@ -69,3 +69,11 @@ hugo
 ```
 
 ## Configure the site
+
+- Modify the favicon imager for browsers at `name_of_project/static/favicon.ico`.
+- The content goes in the folder `name_of_project/content`.
+- The posts go inside the folder `name_of_project/content/posts`.
+- Static content goes in the folder `name_of_project/static`.
+- All the settings go in the files `name_of_project/config.toml`.
+- Start with the default theme config file and modify it from there.
+- Save the content folder, static folder, and config.toml file separately in case I want to rebuild the blog. This is where all your data should be stored.
