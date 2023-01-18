@@ -77,6 +77,3 @@ hugo
 - All the settings go in the files `name_of_project/config.toml`.
 - Start with the default theme config file and modify it from there.
 - Save the content folder, static folder, and config.toml file separately in case I want to rebuild the blog. This is where all your data should be stored.
-
-
-This is a test
