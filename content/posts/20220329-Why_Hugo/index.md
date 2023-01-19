@@ -28,7 +28,7 @@ When I went looking for SSGs (Static Site Generators), I was trying to find java
 
 ## Hugo Process
 
-The process for creating a post will change in time, but it is already much faster than WordPress. I make a folder for each post, including an index markdown file and any images I want to include. Then I use [Typora](https://typora.io/) to write the post in markdown. I could use [VS Code](https://code.visualstudio.com/), but VS Code does not work with [Grammarly](https://app.grammarly.com/). Hugo also uses several extended Markdown features, but I will get into those in future posts. After writing the post, I add the images. I use a Bash Script to update Hugo's public directory and then rsync it to my  Dreamhost directory when the post is done. I don't even have to open a browser. 
+The process for creating a post will change in time, but it is already much faster than WordPress. I make a folder for each post, including an index markdown file and any images I want to include. Then I use [Typora](https://typora.io/) to write the post in markdown. I could use [VS Code](https://code.visualstudio.com/), but VS Code does not work with [Grammarly](https://app.grammarly.com/). Hugo also uses several extended Markdown features, but I will get into those in future posts. After writing the post, I add the images. I use a Bash Script to update Hugo's public directory and then rsync it to my  Dreamhost directory when the post is done. I don't even have to open a browser.
 
 ## Learning Hugo
 

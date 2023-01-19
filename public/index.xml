@@ -3,9 +3,17 @@
         <title>Karl S Johnson</title>
         <link>http://karlsjohnson.com/</link>
         <description>Karl S Johnson</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 07 Dec 2022 00:00:00 &#43;0600</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 19 Jan 2023 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="http://karlsjohnson.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Workshop Construction</title>
+    <link>http://karlsjohnson.com/posts/20230119-workshop_construction/</link>
+    <pubDate>Thu, 19 Jan 2023 00:00:00 &#43;0000</pubDate>
+    <author>Karl</author>
+    <guid>http://karlsjohnson.com/posts/20230119-workshop_construction/</guid>
+    <description><![CDATA[Workshop build We started the workshop build a couple of weeks ago by painting the floor and walls. The next step was to build the shelves for small parts. The pictures show the frame of the shelves in the process of being painted. When the painting is done, I will attach it to the wall. There is plenty of medium and large shelving by the workbench and in the room next to the workshop (the storage room).]]></description>
+</item>
+<item>
     <title>Setting up Hugo</title>
     <link>http://karlsjohnson.com/posts/20221207-hugo_setup/</link>
     <pubDate>Wed, 07 Dec 2022 00:00:00 &#43;0600</pubDate>

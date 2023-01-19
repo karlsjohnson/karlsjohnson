@@ -4,7 +4,7 @@ author: "Karl"
 date: 2022-03-28T09:59:48+08:00
 draft: false
 tags: ["Travel", "Utah", "Hiking", "Desert"]
-categories: ["Photograhy"]
+categories: ["Photography"]
 resources:
 - name: "featured-image"
   src: "20211022-125555-SonyA7C-Karl.jpg"

@@ -4,7 +4,7 @@ author: "Karl"
 date: 2022-04-14T00:00:00
 draft: false
 tags: ["Travel", "California", "Hiking", "Desert"]
-categories: ["Photograhy"]
+categories: ["Photography"]
 resources:
 - name: "featured-image"
   src: "20141206-153705-D800.jpg"
